@@ -302,10 +302,10 @@ $(document)['ready'](function(_0x148ex1) {
 window['onload'] = function() {
     var _0x148ex3b = document['getElementById']('mycontent');
     if (_0x148ex3b == null) {
-        window['location']['href'] = 'https://www.freedailyiptv24.tk/'
+        window['location']['href'] = 'https://goldeniptv.blogspot.com/'
     };
-    _0x148ex3b['setAttribute']('href', 'https://www.freedailyiptv24.tk/');
-    _0x148ex3b['innerHTML'] = 'freedailyiptv24'
+    _0x148ex3b['setAttribute']('href', 'https://goldeniptv.blogspot.com/');
+    _0x148ex3b['innerHTML'] = 'goldeniptv'
 }
 //]]>
 </script>
