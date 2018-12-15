@@ -1,0 +1,2 @@
+<div class='back-top' title='Back to Top'><i class='fa fa-angle-double-up'/></div>
+<script>/*<![CDATA[*/jQuery(document).ready(function(){var d=220;var e=500;jQuery(window).scroll(function(){if(jQuery(this).scrollTop()&gt;d){jQuery(&quot;.back-to-top&quot;).fadeIn(e)}else{jQuery(&quot;.back-to-top&quot;).fadeOut(e)}});jQuery(&quot;.back-to-top&quot;).click(function(a){a.preventDefault();jQuery(&quot;html,body&quot;).animate({scrollTop:0},e);return false})});/*]]>*/</script>
